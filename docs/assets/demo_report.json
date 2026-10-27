@@ -1,0 +1,11 @@
+{
+  "synthetic": true,
+  "molecules": 20,
+  "clusters": 5,
+  "review_size": 7,
+  "manual_size": 4,
+  "selection": "score top16 -> LE top12 -> cluster size; cap2 for small demo",
+  "rdkit": "2026.09.1",
+  "regional_EF_and_cluster_pocket_labels": "SYNTHETIC; arithmetic and join demo only",
+  "warning": "Toy molecules, invented scores and pocket labels; not research results"
+}
